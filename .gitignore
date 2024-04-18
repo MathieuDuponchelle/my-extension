@@ -1,0 +1,4 @@
+/build/
+/dist/
+/hotdoc_my_extension.egg-info/
+__pycache__/
